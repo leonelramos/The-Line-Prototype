@@ -26,7 +26,7 @@ public class WarShipR3N01 : KinematicBody, IFleetShip
 	private bool enemyShipsReady;
 	
 	// Arrive params
-	float maxSpeed = 10;
+	float maxSpeed = 5;
 	float maxAcceleration = .5F;
 	float arriveSlowdownRadius = 5;
 	float arriveTargetRadius = 1F;
@@ -142,7 +142,7 @@ public class WarShipR3N01 : KinematicBody, IFleetShip
 		SteeringOutput steer = new SteeringOutput();
 		steer += arriveSteering.GetSteering();
 		if (allyShipsReady) steer += seperationSteering.GetSteering();
-		if(enemyShipsReady) steer += collisionAvoidanceSteering.GetSteering();
+		//if(enemyShipsReady) steer += collisionAvoidanceSteering.GetSteering();
 		steer += faceForwardSteering.GetSteering();
 		return steer;
 	}
