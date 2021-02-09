@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cannonBall.obj-ca15cd6b8f67aa90fe3453d59011864a.mesh"
+
+[deps]
+
+files=[ "res://.import/cannonBall.obj-ca15cd6b8f67aa90fe3453d59011864a.mesh" ]
+
+source_file="res://Shared/Models/Kenny Pirates/OBJ format/cannonBall.obj"
+dest_files=[ "res://.import/cannonBall.obj-ca15cd6b8f67aa90fe3453d59011864a.mesh", "res://.import/cannonBall.obj-ca15cd6b8f67aa90fe3453d59011864a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

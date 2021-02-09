@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tower.obj-cbb648c7a0add9f45983069072fe5577.mesh"
+
+[deps]
+
+files=[ "res://.import/tower.obj-cbb648c7a0add9f45983069072fe5577.mesh" ]
+
+source_file="res://Shared/Models/Kenny Pirates/OBJ format/tower.obj"
+dest_files=[ "res://.import/tower.obj-cbb648c7a0add9f45983069072fe5577.mesh", "res://.import/tower.obj-cbb648c7a0add9f45983069072fe5577.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

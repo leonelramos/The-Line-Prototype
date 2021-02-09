@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bottleLarge.obj-29d144c7e5826dc3490fb4ab7dfb13e8.mesh"
+
+[deps]
+
+files=[ "res://.import/bottleLarge.obj-29d144c7e5826dc3490fb4ab7dfb13e8.mesh" ]
+
+source_file="res://Shared/Models/Kenny Pirates/OBJ format/bottleLarge.obj"
+dest_files=[ "res://.import/bottleLarge.obj-29d144c7e5826dc3490fb4ab7dfb13e8.mesh", "res://.import/bottleLarge.obj-29d144c7e5826dc3490fb4ab7dfb13e8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,12 @@
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/bin/Debug/The Line of Battle.deps.json
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/bin/Debug/The Line of Battle.dll
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/bin/Debug/ref/The Line of Battle.dll
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/bin/Debug/The Line of Battle.pdb
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/The Line of Battle.csprojAssemblyReference.cache
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/The Line of Battle.GeneratedMSBuildEditorConfig.editorconfig
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/The Line of Battle.AssemblyInfoInputs.cache
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/The Line of Battle.AssemblyInfo.cs
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/The Line of Battle.csproj.CoreCompileInputs.cache
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/The Line of Battle.dll
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/ref/The Line of Battle.dll
+/home/lramos/Dev/oddduck games/The Line of Battle/.mono/temp/obj/Debug/The Line of Battle.pdb

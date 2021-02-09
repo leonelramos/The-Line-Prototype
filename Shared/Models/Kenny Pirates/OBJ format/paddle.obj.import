@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/paddle.obj-be737df8078a58008d425df5e42de95b.mesh"
+
+[deps]
+
+files=[ "res://.import/paddle.obj-be737df8078a58008d425df5e42de95b.mesh" ]
+
+source_file="res://Shared/Models/Kenny Pirates/OBJ format/paddle.obj"
+dest_files=[ "res://.import/paddle.obj-be737df8078a58008d425df5e42de95b.mesh", "res://.import/paddle.obj-be737df8078a58008d425df5e42de95b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
