@@ -1,2 +1,0 @@
-﻿39431
-/home/lramos/Dev/oddduck games/Godot_v3.2.4-rc1_mono_x11_64/Godot_v3.2.4-rc1_mono_x11.64
